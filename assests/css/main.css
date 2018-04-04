@@ -1,0 +1,43 @@
+body {
+    background-color: blanchedalmond;
+    margin: 0%;
+}
+
+.container {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#contactInfo {
+    max-width: 39%;
+}
+
+#yourName {
+    max-width: 60%;
+    padding: 10px 0px 0px 0px;
+    margin: 0px 0px 0px 20px;
+}
+
+h1 {
+    color: #ffffff;
+    background-color: black;
+    text-align: center;
+    margin: 0%;
+    padding: 12px;
+}
+
+#yourName p {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 55%;
+    padding: 0px 0px 0px 10px;
+    margin: 0;
+}
+
+h2 {
+    margin: 20px 0px 0px 0px;
+}
+
+a {
+    color: red;
+}
